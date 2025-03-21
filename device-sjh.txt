@@ -1,2 +1,1 @@
-.admin-msg
-I have now fixed the issue you were experiencing. Please let me know of any further issues.
+.lock
