@@ -1,2 +1,1 @@
-.admin-msg
-Welcome! I hope it now works.
+.lock
