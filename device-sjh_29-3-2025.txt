@@ -1,2 +1,2 @@
 .admin-msg
-Welcome! Is it working?
+Welcome! Is it working? Let me know of any issues!
