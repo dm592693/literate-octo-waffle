@@ -1,1 +1,1 @@
-
+.admin msg This is a test
